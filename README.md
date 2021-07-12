@@ -2,8 +2,6 @@
 - 👋 Hi, I’m Mateus Medeiros
 - 👀 I’m interested in Front-end development and UX/UI Design
 - 🌱 I’m currently learning ReactJS, Angular and TypeScript  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 mateusmedeiros98/mateusmedeiros98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
